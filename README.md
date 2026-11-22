@@ -9,3 +9,4 @@ Bu loyiha Git, GitHub va Terminal komandalarini o'rganish va hujjatlashtirish uc
 ## Maqsad
 O'rganilgan bilimlarni uchta branchda hujjatlashtirish va GitHub'ga push qilish.
 # git-github-master-guide
+# git-github-master-guide
